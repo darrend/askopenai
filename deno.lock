@@ -1,0 +1,22 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/openai_deno@v0.9.1/mod.ts": "98078c033a76931e3198dfb940cf95b275bbddcce62a2f6795644bdac551ba28",
+    "https://deno.land/x/openai_deno@v0.9.1/src/mod.ts": "6456651cb707999dde2846641fa37f4328a8fd358b012ecc4767095e298d6cf8",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/answer.ts": "11db5a8ed6ac1986b2bb8a9dac7c44f34a0bae0e5f8304a20cf3368656dbe3d3",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/classification.ts": "3563e25337db05b707cca8619ff8e38fbe87ab7e93c52847451cad2774356fc8",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/completion.ts": "6c5dcd7d8da14bf2fb0c3aa2f4dd420566b61a93aedb6e0fcfdcf186fb207db0",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/edit.ts": "e0fb5060784d5a97ace06aeea6e64be048bd30b23b39a703037b425643e19e14",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/embedding.ts": "f4fa3ea7fef46c08056818548a98f939396078da87d15fe8692580b273bea557",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/engine.ts": "3cf1f23e715749d70db8828a761499e9e1f230ca74c57c1f83f30a959a5b2f5e",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/error.ts": "5f699bb2894beb8715195d259e24c717de1741bcc20af111b4151646d425c723",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/etc.ts": "e3cbc75aeea72540e8983365fbcfffe58b9b12da121fdc9e900009e886aa99b6",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/file.ts": "cd725baed64ed50c9d16bcade9f19d9552a7e0ff8eb952ba82683971e999d574",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/fineTune.ts": "6f73b0adf61c5b502390221428a567de27e77b6695ba03072f66a08fe5ce7ac2",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/image.ts": "c54295aa02ec74f5bcde4bb53c949d5e183545aa0b4bc989110863f321b34832",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/models.ts": "5ce3a60a998c3a2fe8360c36e3dfc3c478bb8a37ffd1d1c0fc0413582d4754fa",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/moderation.ts": "143f0889bfb22e61844771255689d5a1275d2eac555bda8b51ec8450052d7408",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/search.ts": "5d875d96deeda5cf8476a4400ead73d435fd9647c503fdc9d56a659fcf1b5127",
+    "https://deno.land/x/openai_deno@v0.9.1/src/types/url.ts": "936226d9f653e104ae7bed745a77f00a93c452d1f71214871a67f2e11786c741"
+  }
+}

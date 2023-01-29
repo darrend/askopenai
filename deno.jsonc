@@ -1,0 +1,9 @@
+{
+    "tasks": {
+        "run": "deno run --allow-env=OPENAI_API_TOKEN,OPENAI_API_ORGANIZATION_TOKEN --allow-net=api.openai.com main.ts",
+        "install":  "deno install -f -n askopenai --allow-env=OPENAI_API_TOKEN,OPENAI_API_ORGANIZATION_TOKEN --allow-net=api.openai.com main.ts",
+        "compile":  "deno compile -o ./build/askopenai --allow-env=OPENAI_API_TOKEN,OPENAI_API_ORGANIZATION_TOKEN --allow-net=api.openai.com main.ts",
+        "clean":  "rm -rf ./build",
+        "which": "rm --help"
+    }
+}
