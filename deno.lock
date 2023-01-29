@@ -1,6 +1,10 @@
 {
   "version": "2",
   "remote": {
+    "https://deno.land/std@0.174.0/fmt/colors.ts": "938c5d44d889fb82eff6c358bea8baa7e85950a16c9f6dae3ec3a7a729164471",
+    "https://deno.land/std@0.174.0/testing/_diff.ts": "1a3c044aedf77647d6cac86b798c6417603361b66b54c53331b312caeb447aea",
+    "https://deno.land/std@0.174.0/testing/_format.ts": "a69126e8a469009adf4cf2a50af889aca364c349797e63174884a52ff75cf4c7",
+    "https://deno.land/std@0.174.0/testing/asserts.ts": "984ab0bfb3faeed92ffaa3a6b06536c66811185328c5dd146257c702c41b01ab",
     "https://deno.land/x/openai_deno@v0.9.1/mod.ts": "98078c033a76931e3198dfb940cf95b275bbddcce62a2f6795644bdac551ba28",
     "https://deno.land/x/openai_deno@v0.9.1/src/mod.ts": "6456651cb707999dde2846641fa37f4328a8fd358b012ecc4767095e298d6cf8",
     "https://deno.land/x/openai_deno@v0.9.1/src/types/answer.ts": "11db5a8ed6ac1986b2bb8a9dac7c44f34a0bae0e5f8304a20cf3368656dbe3d3",
