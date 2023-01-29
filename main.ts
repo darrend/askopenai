@@ -5,7 +5,7 @@ const instance = new OpenAI();
 const response = await instance.createCompletion("text-davinci-003", {
   prompt: `${Deno.args[0]}:\n\n\n`,
   maxTokens: 1024,
-  temperature: 0,
+  temperature: 1,
   count: 1,
 });
 
